@@ -1,0 +1,9 @@
+{
+  "latent_dim": 192,
+  "codebook_size": 1536,
+  "beta": 0.25,
+  "decay_gamma": 0.99,
+  "dir_loss_weight": 5.0,
+  "struct_loss_weight": 10.0,
+  "best_loss": 0.010128707394315694
+}
