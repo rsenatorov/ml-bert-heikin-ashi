@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+        Long       0.15      0.42      0.23       897
+       Short       0.19      0.53      0.28      1085
+        Hold       0.75      0.30      0.43      5799
+
+    accuracy                           0.35      7781
+   macro avg       0.36      0.42      0.31      7781
+weighted avg       0.60      0.35      0.39      7781
