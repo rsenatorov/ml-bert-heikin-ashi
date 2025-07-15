@@ -1,6 +1,6 @@
 # ml-bert-heikin-ashi
 
-A BERT-style masked-LM pipeline on **Heikin-Ashi mid-price** tokens for financial time-series classification and trade simulation.  
+A BERT-style masked-LM pipeline on **Heikin-Ashi mid-price** tokens for financial time-series classification.  
 Instead of predicting the next OHLCV token like a GPT-2 model, this repo builds a full pipeline—from raw bid/ask bars through VQ-VAE tokenization to BERT pretraining and fine-tuning for **long/short/hold** signals.
 
 *Pretrain MLM results (context 100 + [CLS]):*  
