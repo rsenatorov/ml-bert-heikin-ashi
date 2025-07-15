@@ -95,7 +95,7 @@ python ml-model-training/src/train_signal.py
 
 ## Disclaimer
 
-- The equity curve uses a different trade selection than classification metrics.  
+- The equity curve and classification metrics uses a different script of creating data.  
 - No fees, slippage, latency, or order-book modeling.  
 - Use at your own risk.
 
