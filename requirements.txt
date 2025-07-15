@@ -1,0 +1,7 @@
+pandas
+numpy
+joblib
+tqdm
+torch
+vector-quantize-pytorch
+matplotlib
