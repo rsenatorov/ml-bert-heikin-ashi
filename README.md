@@ -31,7 +31,7 @@ weighted avg       0.60      0.35      0.39      7781
 > ![Equity Curve](ml-model-training/logs/equity_curve.png)  
 > The equity curve above starts at 1 000 USD and fluctuates across coins, peaking at ~1 145 USD for SOL, but overall underperforms. Note: this curve uses a different selection of trades than what our data creation script made. Do note that if you implemented a fee per trade this equity curve would deplete to $0.
 
-## Example: Crreating Signals
+## Example: Creating Signals
 
 > **Example Heikin-Ashi & TP/SL**  
 > ![Signal Example](ml-data-engineering/plots/long_6.png)  
